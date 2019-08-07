@@ -1,0 +1,26 @@
+{
+  "name": "mcphoto",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "script.js",
+  "scripts": {
+    "test": "x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDumas551/mcPhoto.git"
+  },
+  "keywords": [
+    "photography"
+  ],
+  "author": "david dumas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDumas551/mcPhoto/issues"
+  },
+  "homepage": "https://github.com/DDumas551/mcPhoto#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "hamburgers": "^1.1.3"
+  }
+}
