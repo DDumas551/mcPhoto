@@ -39,7 +39,7 @@ body {
 
 @media only screen and (max-width: 767px) {
   .carousel {
-    margin-bottom: 100px;
+    margin-bottom: 75px;
   }
   .footer {
     color: white;
@@ -131,6 +131,18 @@ body {
 
 .shaka {
   max-width: 36px;
+}
+
+.phoneButton {
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: rgba(0, 0, 0, 0.137);
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.modal {
+  max-width: 97%;
 }
 
 .footer {
